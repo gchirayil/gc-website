@@ -2,6 +2,4 @@
 
 gc changes
 
-example branch
-
-update-readme branch updated locally, remote change
+Update on github before rebase

@@ -4,5 +4,6 @@ gc changes
 
 Update on github before rebase
 
+a change
 
-This will conflict
+
